@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/round_option"
+    android:layout_height="250dp">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="167dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/round_border"
+        android:text="Sahan C Poojari Kajal Suvarna     Yash Salian           Charitha             Thrpti"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnabtbck"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btnabtbck"
+        android:layout_width="171dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="184dp"
+        android:background="@drawable/round_border"
+        android:text="Back"
+        android:fontFamily="@font/font"
+        android:textAllCaps="false"
+        android:textColor="@color/text_color"
+        android:textSize="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.927"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

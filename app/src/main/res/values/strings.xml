@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chess Master</string>
+    <string-array name="theme_choice">
+        <item>green</item>
+        <item>brown</item>
+    </string-array>
+    <string-array name="about_dev">
+        <item>Sahan C Poojari</item>
+        <item>Kajal </item>
+        <item>Yash</item>
+        <item>Charitha</item>
+        <item>Thrpti</item>
+    </string-array>
+    <string name="compare">container_a1 == "pawn" || container_a2 =="pawn" || container_a3 == "pawn" || container_a4 == "pawn" || container_a5 =="pawn" || container_a6 == "pawn" || container_a7 == "pawn" || container_a8 =="pawn" || container_a1 == "castle" || container_a2 =="castle" || container_a3 == "castle" || container_a4 == "castle" || container_a5 =="castle" || container_a6 == "castle" || container_a7 == "castle" || container_a8 =="castle"</string>
+</resources>
